@@ -1,0 +1,19 @@
+.filter {
+  margin-bottom: 15px;
+  background-color: rgb(189, 185, 185);
+  max-width: 500px;
+  margin-left: 5px;
+  padding: 5px;
+}
+
+.label {
+  color: #2e312e;
+}
+
+.input {
+  margin-left: 20px;
+  background-color: rgb(9, 175, 137);
+  border: 0;
+  height: 20px;
+  width: 120px;
+}
